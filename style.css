@@ -1,0 +1,203 @@
+*{
+    margin: 0%;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+/* banner style section */
+.banner-stuffs{
+    height: 809px;
+    background-image: url('images/banner/banner3.png');
+}
+.banner-tittle{
+    font-size: 65px;
+    font-weight: 700;
+    text-align: right;
+    color: rgb(255, 255, 255);
+    padding-top: 216px;
+    margin-right: 230px;
+    margin-bottom: 24px;
+}
+.banner-info{
+    text-align: right;
+    margin-right: 230px;
+    margin-left: 876px;
+    height: 78px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+    margin-bottom: 32px;
+}
+.contact-us{
+    text-align: right;
+    margin-right: 230px;
+    border: 0;
+    padding: 21px 25px 20px 26px;
+    background: #ffffff;
+    color: #005FAC;
+    margin-left: 1190px;
+    font-size: 20px;
+    font-weight: 600px;
+    border-radius: 5px;
+}
+/* person section */
+.person-container{
+    margin-top: 130px;
+    display: flex;
+    gap: 87px;
+    align-items: center;
+}
+.person-img{
+    width: 569px;
+    height: 723.3px;
+    margin-left: 206px;
+}
+.person-tittle{
+    margin-right: 450px;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+    margin-top: 200px;
+}
+.person-info{
+    margin-right: 322px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+.checklist{
+    color: #444343;
+}
+.check-info{
+    margin-bottom: 8px;
+}
+.fa-regular{
+    color: green;
+}
+
+/* my plan section style */
+
+.my-plan{
+    text-align: center;
+    margin-top: 130px;
+    margin-left: 750px;
+    margin-right: 656px;
+    margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 40px;
+}
+.icons-details{
+    display: flex;
+    justify-content: center;
+    gap: 86px;
+    margin: 0 230px;
+    margin-bottom: 130px;
+}
+.icon{
+    width: 230px;
+    height: 197px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 92.96px;
+    height: 92.96px;
+    margin-bottom: 24px;
+}
+.icon-tittle{
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+}
+.icon-info{
+    text-align: center;
+    margin-top: 16px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #737272;
+}
+
+/* positive mindset style */
+.positive-mind-stuffs{
+    margin: 189px 0;
+    margin-left: 230px;
+    background-image: url('images/watch.png'),url('images/gradient1.png');
+    background-repeat: no-repeat;
+    background-blend-mode: overlay, normal;
+    padding: 59px 617px 59px 64px;
+}
+.positive-mind-tittle{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+    color: #ffffff;
+}
+.call-now{
+    color: #005FAC;
+    border: 0;
+    border-radius: 5px;
+    padding: 21px 36px;
+    font-weight: 600;
+    font-size: 20px;
+}
+/* footer section */
+footer{
+    height: 577px;
+    background-color: #151414;
+    display: flex;
+}
+.firt-part{
+    margin-top: 130px;
+    margin-left: 230px;
+}
+.first-tittle{
+    color: white;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+.first-part-info{
+    color: white;
+    margin-bottom: 24px;
+    width: 485px;
+}
+.email{
+    color: white;
+    margin-bottom: 16px;
+}
+.phone{
+    color: white;
+    margin-bottom: 32px;
+}
+.icons{
+    margin-right: 17px;
+}
+.form{
+    margin-top: 130px;
+    margin-right: 230px;
+    margin-left: 331px;
+}
+.form-tittle{
+    margin-bottom: 30px;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+input{
+    padding: 21px 158px 22px 21px;
+    margin-bottom: 16px;
+    background: #151414;
+    border-radius: 10px;
+    border: 2px solid white;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+}
+.subscribe{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    padding: 20px 36.02px 20px 36.02px;
+    border-radius: 10px;
+    background-color: #005FAC;
+    border: 0;
+}
